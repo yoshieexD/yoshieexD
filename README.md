@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jom Winston Magbag</h1>
 <h3 align="center">A college student who loves to explore in field of web development.</h3>
 
-- 🔭 I’m currently working at [Fit Senpai](https://www.fitsenpai.com/)
+- 🔭 I’m currently working at [Odev Solutions](https://www.odevsolutions.com/)
 
 - 🌱 I’m currently learning **Python, Typescript, Go Lang, Ruby on Rails**
 
